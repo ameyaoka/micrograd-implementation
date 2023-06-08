@@ -1,2 +1,2 @@
 # micrograd-implementation
-this is implimentation of micrograd 
+this is implimentation of micrograd with notes and explanation
